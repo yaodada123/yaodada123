@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm DaDa Yao ♌
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaodada123)](https://github.com/yaodada123/github-readme-stats)
 
 <!--
 **yaodada123/yaodada123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
