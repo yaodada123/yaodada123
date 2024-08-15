@@ -1,7 +1,7 @@
 <!-- ## Hi I'm DaDa Yao ♌ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Hi!+I+am+YaoDaDa)](https://git.io/typing-svg)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaodada123&show_icons=true&theme=radical)](https://github.com/yaodada123/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaodada123&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=yaodada123&show_icons=true&theme=radical)
 
 <!--
 **yaodada123/yaodada123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
