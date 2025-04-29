@@ -1,6 +1,7 @@
 <!-- ## Hi I'm DaDa Yao ♌ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Hi!+I+am+YaoDaDa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Yao+Yi+Yao)](https://git.io/typing-svg)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaodada123&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=yaodada123&show_icons=true&theme=radical) -->
 
 <!--
